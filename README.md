@@ -3,6 +3,8 @@
 Deactivators, the classic '80 game is back 
 This is a game developed with Unreal Engine and shared for free. 
 I build this game to learn Unreal Engine and this distribution is to help others in the same way learning from its structure, logic, and source code. It is not a commercial product!
+See a gameplay video:
+https://youtu.be/D_ADJ078BBo
 
 ## 📦 Repository Contents
 
