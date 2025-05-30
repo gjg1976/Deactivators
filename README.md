@@ -27,7 +27,7 @@ This includes, but is not limited to:
 - Using the project in services that generate direct or indirect revenue.
 
 ## Installation and Gameplay
-To install the game, simple download the Deactivators_v1.0.0.zip file from link below, unzip and run the deactivators.exe file
+To install the game in Widows, simple download the Deactivators_v1.0.0.zip file from link below, unzip and run the deactivators.exe file
 
 https://github.com/gjg1976/Deactivators/releases/tag/v1.0.0
 
