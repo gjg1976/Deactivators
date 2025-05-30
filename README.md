@@ -1,4 +1,4 @@
-![Alt text](./Deactivators_Coverart.png?raw=true)
+![Alt text](./Deactivators_Coverart.png?raw=true)(./ingamescreen.png?raw=true)
 # Deactivators
 Deactivators, the classic '80 game is back 
 This is a game developed with Unreal Engine and shared for free. 
