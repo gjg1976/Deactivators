@@ -29,7 +29,7 @@ This includes, but is not limited to:
 ## Installation and Gameplay
 To install the game in Widows, simple download the Deactivators_v1.0.0.zip file from link below, unzip and run the deactivators.exe file
 
-https://github.com/gjg1976/Deactivators/releases/tag/v1.0.0
+https://github.com/gjg1976/Deactivators/releases/tag/v1.1.0
 
 ### Playing the Game
 The object of the game is to remove all bombs from 5 different buildings You start on level one in a four by four building. The displays at the top of the screen provides a view of waht is going on in two adjacent rooms. At the bottom of the screen is a map of the building showing you the positions of droids and bombs. Each droid is restricted in the number of rooms it can move between. your score is shown in the box on the left, and any bonus droids you have available. The status box on the right shows whether the dorid you are controlling is carrying either a bomb or a circuit board.
